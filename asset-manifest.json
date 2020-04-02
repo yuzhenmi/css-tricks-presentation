@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.ded58a55.chunk.js",
-    "main.js.map": "/static/js/main.ded58a55.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5ee96901.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5ee96901.js.map",
-    "static/js/2.84e433a6.chunk.js": "/static/js/2.84e433a6.chunk.js",
-    "static/js/2.84e433a6.chunk.js.map": "/static/js/2.84e433a6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.12e749302b7bc7b811747aa2a531a3bb.js": "/precache-manifest.12e749302b7bc7b811747aa2a531a3bb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.84e433a6.chunk.js.LICENSE.txt": "/static/js/2.84e433a6.chunk.js.LICENSE.txt",
-    "static/media/angel.png": "/static/media/angel.8c0faa9b.png",
-    "static/media/wing.png": "/static/media/wing.ddef0d0b.png"
+    "main.css": "/css-tricks-presentation/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/css-tricks-presentation/static/js/main.39ec488a.chunk.js",
+    "main.js.map": "/css-tricks-presentation/static/js/main.39ec488a.chunk.js.map",
+    "runtime-main.js": "/css-tricks-presentation/static/js/runtime-main.ba8c7549.js",
+    "runtime-main.js.map": "/css-tricks-presentation/static/js/runtime-main.ba8c7549.js.map",
+    "static/js/2.7b37753a.chunk.js": "/css-tricks-presentation/static/js/2.7b37753a.chunk.js",
+    "static/js/2.7b37753a.chunk.js.map": "/css-tricks-presentation/static/js/2.7b37753a.chunk.js.map",
+    "index.html": "/css-tricks-presentation/index.html",
+    "precache-manifest.b6ea65a03c3abcda2c8a7ebe7bc087c7.js": "/css-tricks-presentation/precache-manifest.b6ea65a03c3abcda2c8a7ebe7bc087c7.js",
+    "service-worker.js": "/css-tricks-presentation/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/css-tricks-presentation/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7b37753a.chunk.js.LICENSE.txt": "/css-tricks-presentation/static/js/2.7b37753a.chunk.js.LICENSE.txt",
+    "static/media/angel.png": "/css-tricks-presentation/static/media/angel.8c0faa9b.png",
+    "static/media/wing.png": "/css-tricks-presentation/static/media/wing.ddef0d0b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5ee96901.js",
-    "static/js/2.84e433a6.chunk.js",
+    "static/js/runtime-main.ba8c7549.js",
+    "static/js/2.7b37753a.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ded58a55.chunk.js"
+    "static/js/main.39ec488a.chunk.js"
   ]
 }
