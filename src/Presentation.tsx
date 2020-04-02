@@ -6,6 +6,7 @@ import TitleSlide from './components/TitleSlide';
 import SquisherSlide from './components/SquisherSlide';
 import CodeSlide from './components/CodeSlide';
 import IntroSlide from './components/IntroSlide';
+import EndSlide from './components/EndSlide';
 import GridDemo from './demos/GridDemo';
 import FlexboxDemo from './demos/FlexboxDemo';
 import CenteringDemo from './demos/CenteringDemo';
@@ -156,6 +157,9 @@ const Presentation: React.FC = () => {
             </Slide>
             <Slide>
                 <CodeSlide source={raw('./demos/HeadingWrapDemo.tsx')} />
+            </Slide>
+            <Slide>
+                <EndSlide />
             </Slide>
         </Deck>
     );

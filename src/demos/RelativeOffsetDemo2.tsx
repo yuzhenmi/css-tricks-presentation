@@ -24,6 +24,8 @@ const MyButton = styled.div`
     background-color: white;
     border-radius: 50%;
     box-shadow: 0 6px 36px rgba(255, 255, 255, 0.85);
+    cursor: pointer;
+    user-select: none;
     transition: 0.1s ease;
     :hover {
         box-shadow: 0 9px 48px rgba(255, 255, 255, 0.85);

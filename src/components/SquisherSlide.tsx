@@ -27,6 +27,7 @@ const Squisher = styled.div`
     border-radius: 4px;
     transition: 0.1s ease;
     user-select: none;
+    cursor: pointer;
     :hover {
         box-shadow: inset 0 -6px 36px rgba(0, 0, 0, 0.45);
     }
@@ -62,7 +63,7 @@ const CenteringSlide: React.FC<IProps> = ({ demo }) => {
                         setSquishAmount(Math.min(squishAmount + 10, 100))
                     }
                 >
-                    {squishAmount < 100 ? 'SQUISH' : 'VICTORY'}
+                    {squishAmount < 100 ? 'SQUISH' : 'YOU DID IT!'}
                 </Squisher>
             </Wrapper>
         </FlexBox>
